@@ -1,14 +1,15 @@
 {
   "name": "exceptionally-typed",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "A Library of Hight Functionality, type safe robust data structures for use on the server and front end UI",
-  "main": "index.js",
+  "main": "dist/js/index.js",
   "scripts": {
-    "test": "echo test"
+    "test": "echo test",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anishLearnsToCode/exceptionally-typed.git"
+    "url": "https://github.com/anishLearnsToCode/exceptionally-typed.git"
   },
   "keywords": [
     "ts",
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/anishLearnsToCode/exceptionally-typed/issues"
   },
-  "homepage": "https://github.com/anishLearnsToCode/exceptionally-typed#readme"
+  "homepage": "https://github.com/anishLearnsToCode/exceptionally-typed#readme",
+  "dependencies": {
+    "@types/hashmap": "2.0.29"
+  },
+  "devDependencies": {
+    "semantic-release-cli": "4.1.2",
+    "semantic-release": "^15.13.3"
+  }
 }
