@@ -1,6 +1,6 @@
 {
   "name": "exceptionally-typed",
-  "version": "0.0.0-development",
+  "version": "0.0.2",
   "description": "A Library of Hight Functionality, type safe robust data structures for use on the server and front end UI",
   "main": "dist/js/index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/anishLearnsToCode/exceptionally-typed#readme",
   "dependencies": {
-    "@types/hashmap": "2.0.29"
   },
   "devDependencies": {
     "semantic-release-cli": "4.1.2",
