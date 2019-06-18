@@ -1,6 +1,6 @@
 {
   "name": "exceptionally-typed",
-  "version": "0.0.2",
+  "version": "0.0.21",
   "description": "A Library of High Functionality, type safe robust data structures for use on the server and front end UI",
   "main": "dist/js/index.js",
   "scripts": {
