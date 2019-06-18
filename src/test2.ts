@@ -1,3 +1,3 @@
-import '../js/test'
+// import '../js/test'
 
-console.log('anish'.foo());
+console.log('gautam'.reverse());
