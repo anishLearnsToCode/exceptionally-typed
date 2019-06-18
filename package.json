@@ -1,11 +1,13 @@
 {
   "name": "exceptionally-typed",
   "version": "0.0.2",
-  "description": "A Library of Hight Functionality, type safe robust data structures for use on the server and front end UI",
+  "description": "A Library of High Functionality, type safe robust data structures for use on the server and front end UI",
   "main": "dist/js/index.js",
   "scripts": {
     "test": "echo test",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "rm-dist-unix": "rm -r dist",
+    "rm-dist-win": "rmdir /s /q dist"
   },
   "repository": {
     "type": "git",
