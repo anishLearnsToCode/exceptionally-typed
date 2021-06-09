@@ -27,7 +27,7 @@
   "homepage": "https://github.com/anishLearnsToCode/exceptionally-typed#readme",
   "dependencies": {},
   "devDependencies": {
-    "semantic-release": "^15.13.3",
+    "semantic-release": "^17.2.3",
     "semantic-release-cli": "4.1.2",
     "typescript": "3.5.2"
   }
